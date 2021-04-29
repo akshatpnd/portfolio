@@ -2,7 +2,7 @@
 Hello! I am Akshat and I am an aspiring data scientist currently studying at the University of Washington in Seattle. Below you can find the projects that I have worked on as well as links to their respective repositories.
 
 ## Data Analysis
-- Formula 1 data analysis [Link] (https://github.com/akshatpnd/f1_EDA)
+- Formula 1 data analysis [Link](https://github.com/akshatpnd/f1_EDA)
 - Various data analyses for datasets regarding physics [Link](https://github.com/akshatpnd/physics-dataset-analyses)
 
 ## Machine Learning
