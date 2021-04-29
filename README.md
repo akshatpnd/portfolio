@@ -23,3 +23,4 @@ Hello! I am Akshat and I am an aspiring data scientist currently studying at the
 - Crimes in Seattle, a shiny app to help educate oneself about where crimes occur in Seattle [Link](https://chenxi26.shinyapps.io/info201-final-project/)
 - Peak., a community based platform to achieve your goals together [Link](https://www.figma.com/proto/gtjF2xZvydu8WlgU93lumx/TreeHacks-Peak.?node-id=9312%3A2&scaling=min-zoom)
 - SoftServe, a platform to make volunteering easier [Link](https://www.figma.com/proto/Wn1XBCrgICiAP9cIXLslmv/Volunteer-Game-Prototype?node-id=2%3A20&scaling=scale-down&page-id=2%3A19)
+- Ericsson Global Innovation Challenge - Business plan for IoFarm
