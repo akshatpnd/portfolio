@@ -3,7 +3,7 @@ Hello! I am Akshat and I am an aspiring data scientist currently studying at the
 
 ## Data Analysis
 - Formula 1 data analysis
-- Various data analyses for datasets regarding physics
+- Various data analyses for datasets regarding physics [Link](https://github.com/akshatpnd/physics-dataset-analyses)
 
 ## Machine Learning
 - Time Series Analysis - DogeCoin prices
