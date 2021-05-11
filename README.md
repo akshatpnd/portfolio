@@ -2,19 +2,18 @@
 Hello! I am Akshat and I am an aspiring data scientist currently studying at the University of Washington in Seattle. Below you can find the projects that I have worked on as well as links to their respective repositories.
 
 ## Data Analysis
-- Formula 1 data analysis [Link](https://github.com/akshatpnd/f1_EDA)
+- Formula 1 data analysis in SQL [Link](https://github.com/akshatpnd/f1_EDA)
 - Various data analyses for datasets regarding physics [Link](https://github.com/akshatpnd/physics-dataset-analyses)
 
 ## Machine Learning
-- Time Series Analysis - DogeCoin prices
+- Time Series Analysis - DogeCoin prices [Link](https://github.com/akshatpnd/DogeCoinAnalysis)
 - Anomaly Detection - Supernova Detector
-- Sentiment Analysis - Sentiments regarding various topics using scraped tweets
+- Various projects performed in class [Link](https://github.com/akshatpnd/MLProjects)
 
 ## Deep Learning
-- Computer Vision - Garbage Classifier
+- Computer Vision - Garbage Classifier, App in development
 - Computer Vision - Posture Detector
-- NLP - Using GPT-2 to produce anime (Japanese shows) titles [Link](https://colab.research.google.com/drive/19YCd8eDsa1YTIuN-cWbbIXw_NaiZCuMO#scrollTo=U1qu4IIxD6QU)
-- NLP - Using GPT-3 to create personas of past scientists to help teach physics topics - Not accessible anymore since account expired
+- NLP - Using GPT-2 to produce anime (animated shows) titles [Link](https://colab.research.google.com/drive/19YCd8eDsa1YTIuN-cWbbIXw_NaiZCuMO#scrollTo=U1qu4IIxD6QU)
 
 ## Other
 - Spotify music recommender
@@ -24,3 +23,5 @@ Hello! I am Akshat and I am an aspiring data scientist currently studying at the
 - Peak., a community based platform to achieve your goals together [Link](https://www.figma.com/proto/gtjF2xZvydu8WlgU93lumx/TreeHacks-Peak.?node-id=9312%3A2&scaling=min-zoom)
 - SoftServe, a platform to make volunteering easier [Link](https://www.figma.com/proto/Wn1XBCrgICiAP9cIXLslmv/Volunteer-Game-Prototype?node-id=2%3A20&scaling=scale-down&page-id=2%3A19)
 - Ericsson Global Innovation Challenge - Business plan for IoFarm
+- Coveo Data Challenge
+- 2nd place out of 57 teams in Kaggle competition for rain predictions in Seattle [Link](https://github.com/akshatpnd/MLProjects/blob/main/Kaggle_Rain_Predictions.ipynb)
