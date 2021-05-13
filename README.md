@@ -7,6 +7,7 @@ Hello! I am Akshat and I am an aspiring data scientist currently studying at the
 
 ## Machine Learning
 - Time Series Analysis - DogeCoin prices [Link](https://github.com/akshatpnd/DogeCoinAnalysis)
+  - Portfolio simulator game [Link](https://github.com/akshatpnd/trading_game)
 - Anomaly Detection - Supernova Detector
 - Various projects performed in class [Link](https://github.com/akshatpnd/MLProjects)
 
